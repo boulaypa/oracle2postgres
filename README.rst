@@ -3,7 +3,7 @@ oracle2postgre
 ==============
 
 
-Add a short description here!
+Test
 
 
 Description
