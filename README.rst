@@ -3,13 +3,12 @@ oracle2postgre
 ==============
 
 
-Test
+Oracle to Postgres related, python based tools , migration tools 
 
 
 Description
 ===========
 
-A longer description of your project goes here...
 
 
 Note
